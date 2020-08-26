@@ -21,5 +21,8 @@
     <ClCompile Include="Poem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Gamedescription.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
